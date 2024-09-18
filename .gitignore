@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+#secrets
+.env
+
+package-lock.json
+
+/.idea
